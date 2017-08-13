@@ -1,5 +1,7 @@
-# PowerPoll
+# [PowerPoll](https://github.com/Maarti/PowerPoll)
 PowerShell poll program for my co-workers to decide where to eat each day :)
+
+## Overview
 
 ## Getting started
 
@@ -21,3 +23,6 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser -Force
 ```bat
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
 ```
+
+## Author
+[Bryan MARTINET](https://maarti.net)
