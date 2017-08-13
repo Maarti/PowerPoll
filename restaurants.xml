@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<restaurants>
+  <restaurant id="1">
+    <name>Entracte</name>
+    <votes>
+      <vote user="bryan" />
+    </votes>
+  </restaurant>
+</restaurants>
