@@ -24,5 +24,8 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser -Force
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
 ```
 
+## Useful information
+* [Effective Windows PowerShell ebook](https://rkeithhill.wordpress.com/2009/03/08/effective-windows-powershell-the-free-ebook/) from Keith 
+
 ## Author
 [Bryan MARTINET](https://maarti.net)

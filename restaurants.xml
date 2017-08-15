@@ -2,7 +2,7 @@
 <restaurants>
   <restaurant id="1">
     <name>Entracte</name>
-    <votes>
+    <votes date="2017/08/15">
       <vote user="bryan" />
     </votes>
   </restaurant>
