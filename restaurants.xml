@@ -1,9 +1,21 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <restaurants>
   <restaurant id="1">
-    <name>Entracte</name>
-    <votes date="2017/08/15">
+    <name>univers</name>
+	<votes date="2017/08/15">
+		<vote user="bryan" />
+	</votes>
+  </restaurant>
+  <restaurant id="2">
+    <name>entracte2</name>
+    <votes date="2017/08/16">
       <vote user="bryan" />
     </votes>
+  </restaurant>
+  <restaurant id="3">
+    <name>entracte3</name>
+	<votes date="2017/08/15">
+		<vote user="bryan" />
+	</votes>
   </restaurant>
 </restaurants>
