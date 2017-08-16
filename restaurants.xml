@@ -1,21 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <restaurants>
+  <restaurant id="0">
+    <name>Absent(s)</name>
+  </restaurant>
   <restaurant id="1">
-    <name>univers</name>
+    <name>Univers</name>
   </restaurant>
   <restaurant id="2">
-    <name>entracte2</name>
+    <name>Entracte</name>
     <votes date="2017/08/16">
       <vote user="bryan" />
-      <vote user="anna" />
-      <vote user="bryan3" />
+      <vote user="x458333" />
+      <vote user="x458338" />
     </votes>
   </restaurant>
   <restaurant id="10">
-    <name>entracte3</name>
+    <name>Martino</name>
     <votes date="2017/08/16">
-      <vote user="mathieu" />
-      <vote user="jean-mi" />
+      <vote user="x458367" />
+      <vote user="f003695" />
     </votes>
   </restaurant>
 </restaurants>
