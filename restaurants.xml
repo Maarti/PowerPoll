@@ -2,23 +2,98 @@
 <restaurants>
   <restaurant id="0">
     <name>Absent(s)</name>
+    <time>0</time>
   </restaurant>
   <restaurant id="1">
-    <name>Univers</name>
+    <name>Martino</name>
+    <time>7</time>
   </restaurant>
   <restaurant id="2">
     <name>Entracte</name>
-    <votes date="2017/08/16">
-      <vote user="bryan" />
-      <vote user="x458333" />
-      <vote user="x458338" />
-    </votes>
-  </restaurant>
-  <restaurant id="10">
-    <name>Martino</name>
+    <time>7</time>
     <votes date="2017/08/16">
       <vote user="x458367" />
       <vote user="f003695" />
     </votes>
+  </restaurant>
+  <restaurant id="3">
+    <name>Kebab</name>
+    <time>4</time>
+  </restaurant>
+  <restaurant id="4">
+    <name>Cocorico</name>
+    <time>4</time>
+  </restaurant>
+  <restaurant id="5">
+    <name>Venitienne</name>
+    <time>15</time>
+  </restaurant>
+  <restaurant id="6">
+    <name>Volpone</name>
+    <time>17</time>
+  </restaurant>
+  <restaurant id="7">
+    <name>Subway</name>
+    <time>2</time>
+  </restaurant>
+  <restaurant id="9">
+    <name>McDo</name>
+    <time>5</time>
+  </restaurant>
+  <restaurant id="10">
+    <name>Quick</name>
+    <time>5</time>
+  </restaurant>
+  <restaurant id="11">
+    <name>Memphis</name>
+    <time>15</time>
+  </restaurant>
+  <restaurant id="12">
+    <name>Pari's</name>
+    <time>2</time>
+  </restaurant>
+  <restaurant id="13">
+    <name>Locomotive</name>
+    <time>2</time>
+  </restaurant>
+  <restaurant id="14">
+    <name>Paul</name>
+    <time>5</time>
+  </restaurant>
+  <restaurant id="15">
+    <name>SquareMaker</name>
+    <time>4</time>
+  </restaurant>
+  <restaurant id="16">
+    <name>Comptoir</name>
+    <time>5</time>
+  </restaurant>
+  <restaurant id="17">
+    <name>Univers</name>
+    <time>5</time>
+  </restaurant>
+  <restaurant id="18">
+    <name>Arlequin</name>
+    <time>12</time>
+  </restaurant>
+  <restaurant id="19">
+    <name>Heur. Alex</name>
+    <time>13</time>
+  </restaurant>
+  <restaurant id="20">
+    <name>Absinthe</name>
+    <time>14</time>
+  </restaurant>
+  <restaurant id="21">
+    <name>RDC</name>
+    <time>0</time>
+  </restaurant>
+  <restaurant id="22">
+    <name>Pasteur</name>
+    <time>9</time>
+  </restaurant>
+  <restaurant id="23">
+    <name>Yoyoshi</name>
+    <time>10</time>
   </restaurant>
 </restaurants>
