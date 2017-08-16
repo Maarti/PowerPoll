@@ -11,10 +11,6 @@
   <restaurant id="2">
     <name>Entracte</name>
     <time>7</time>
-    <votes date="2017/08/16">
-      <vote user="x458367" />
-      <vote user="f003695" />
-    </votes>
   </restaurant>
   <restaurant id="3">
     <name>Kebab</name>
@@ -31,6 +27,10 @@
   <restaurant id="6">
     <name>Volpone</name>
     <time>17</time>
+    <votes date="2017/08/17">
+      <vote user="bryan" />
+      <vote user="f003695" />
+    </votes>
   </restaurant>
   <restaurant id="7">
     <name>Subway</name>
@@ -43,6 +43,10 @@
   <restaurant id="10">
     <name>Quick</name>
     <time>5</time>
+    <votes date="2017/08/17">
+      <vote user="bryan" />
+      <vote user="x458338" />
+    </votes>
   </restaurant>
   <restaurant id="11">
     <name>Memphis</name>
