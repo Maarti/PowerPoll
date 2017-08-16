@@ -7,14 +7,11 @@
     <name>entracte2</name>
     <votes date="2017/08/16">
       <vote user="bryan" />
-	  <vote user="bryan2" />
-	  <vote user="bryan3" />
+      <vote user="anna" />
+      <vote user="bryan3" />
     </votes>
   </restaurant>
   <restaurant id="3">
     <name>entracte3</name>
-	<votes date="2017/08/15">
-      <vote user="bryan" />
-    </votes>
   </restaurant>
 </restaurants>
