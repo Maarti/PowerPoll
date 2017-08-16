@@ -2,6 +2,7 @@
 PowerShell poll program for my co-workers to decide where to eat each day :)
 
 ## Overview
+![Program Overview](doc/overview.png)
 
 ## Getting started
 
