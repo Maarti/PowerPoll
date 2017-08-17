@@ -9,16 +9,21 @@
     <name>Martino</name>
     <time>7</time>
     <votes date="2017/08/17">
-      <vote user="bryan" />
     </votes>
   </restaurant>
   <restaurant id="2">
     <name>Entracte</name>
     <time>7</time>
+    <votes date="2017/08/17">
+      <vote user="bryan" />
+    </votes>
   </restaurant>
   <restaurant id="3">
     <name>Kebab</name>
     <time>4</time>
+    <votes date="2017/08/17">
+      <vote user="bryan" />
+    </votes>
   </restaurant>
   <restaurant id="4">
     <name>Cocorico</name>
