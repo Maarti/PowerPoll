@@ -11,7 +11,7 @@ PowerShell poll program for my co-workers to decide where to eat each day :)
   * `<name>` should be a maximum size of 12 for layout reasons
   * `<time>` represents the travel time (in min) to the restaurant by foot
 * `./dat/users.xml` contains users informations :
-  * `"id"`**should match the Windows session id** *(use `$env:UserName` in PowerShell to get it)*
+  * `"id"` of each user **should match their Windows session id** *(use `$env:UserName` in PowerShell to get it)*
   * For now, just the `<prenom>` tag is used. It corresponds to first name of the user.
 * `./poll.ps1` contains the main script of the program :
   *  On line 73, **change the absolute path** to match your PowerPoll directory : 
