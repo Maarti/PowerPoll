@@ -8,22 +8,17 @@
   <restaurant id="1">
     <name>Martino</name>
     <time>7</time>
-    <votes date="2017/08/17">
+    <votes date="2017/08/19">
+      <vote user="bryan" />
     </votes>
   </restaurant>
   <restaurant id="2">
     <name>Entracte</name>
     <time>7</time>
-    <votes date="2017/08/17">
-      <vote user="bryan" />
-    </votes>
   </restaurant>
   <restaurant id="3">
     <name>Kebab</name>
     <time>4</time>
-    <votes date="2017/08/17">
-      <vote user="bryan" />
-    </votes>
   </restaurant>
   <restaurant id="4">
     <name>Cocorico</name>
@@ -68,14 +63,10 @@
   <restaurant id="15">
     <name>SquareMaker</name>
     <time>4</time>
-    <votes date="2017/08/17">
-    </votes>
   </restaurant>
   <restaurant id="16">
     <name>Comptoir</name>
     <time>5</time>
-    <votes date="2017/08/17">
-    </votes>
   </restaurant>
   <restaurant id="17">
     <name>Univers</name>
@@ -84,44 +75,29 @@
   <restaurant id="18">
     <name>Arlequin</name>
     <time>12</time>
-    <votes date="2017/08/17">
-    </votes>
   </restaurant>
   <restaurant id="19">
     <name>Heur. Alex</name>
     <time>13</time>
-    <votes date="2017/08/17">
-    </votes>
   </restaurant>
   <restaurant id="20">
     <name>Absinthe</name>
     <time>14</time>
-    <votes date="2017/08/17">
-    </votes>
   </restaurant>
   <restaurant id="21">
     <name>RDC</name>
     <time>0</time>
-    <votes date="2017/08/17">
-    </votes>
   </restaurant>
   <restaurant id="22">
     <name>Pasteur</name>
     <time>9</time>
-    <votes date="2017/08/17">
-    </votes>
   </restaurant>
   <restaurant id="23">
     <name>Yoyoshi</name>
     <time>10</time>
-    <votes date="2017/08/17">
-    </votes>
   </restaurant>
   <restaurant id="99">
     <name>Suiveurs</name>
     <time>0</time>
-    <votes date="2017/08/17">
-      <vote user="bryan" />
-    </votes>
   </restaurant>
 </restaurants>
