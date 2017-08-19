@@ -14,7 +14,7 @@ PowerShell poll program for my co-workers to decide where to eat each day :)
   * `"id"`**should match the Windows session id** *(use `$env:UserName` in PowerShell to get it)*
   * For now, just the `<prenom>` tag is used. It corresponds to first name of the user.
 * `./poll.ps1` contains the main script of the program :
-  *  On line 62, **change the absolute path** to match your PowerPoll directory : 
+  *  On line 73, **change the absolute path** to match your PowerPoll directory : 
   ```powershell
   # Identification
   Set-Location -Path C:\Users\bryan\workspace\PowerPoll
