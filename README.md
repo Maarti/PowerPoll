@@ -14,8 +14,9 @@ PowerShell poll program for my co-workers to decide where to eat each day :)
   * `"id"` of each user **should match their Windows session id** *(use `$env:UserName` in PowerShell to get it)*
   * For now, just the `<prenom>` tag is used. It corresponds to first name of the user.
 * [`./poll.ps1`](https://github.com/Maarti/PowerPoll/blob/master/poll.ps1) contains the main script of the program :
-  * On [line 73](https://github.com/Maarti/PowerPoll/blob/master/poll.ps1#L72-L73), **change the absolute path** to match your PowerPoll directory : 
-  ```powershell
+  * On [line 73](https://github.com/Maarti/PowerPoll/blob/master/poll.ps1#L72-L73), **change the absolute path** to match your PowerPoll directory :
+  
+  ```powershell
   # Identification
   Set-Location -Path C:\Users\bryan\workspace\PowerPoll
 	```
@@ -42,11 +43,13 @@ If you have this error :
 This error happens due to a security measure which won't let scripts be executed on your system without you having approved of it.
 
 ** Disable it for the current user : **
+
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser -Force
 ```
 
 ** Or definitively on the computer : **
+
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
 ```
