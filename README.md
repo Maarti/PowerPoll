@@ -19,9 +19,10 @@ PowerShell poll program for my co-workers to decide where to eat each day :)
   # Identification
   Set-Location -Path C:\Users\bryan\workspace\PowerPoll
   ```
-* You can create a shortcut to launch your script just by clicking on an icon. Create a shortcut and in the target section, write `%SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe -noexit -nologo -command &'C:\Users\bryan\workspace\PowerPoll\poll.ps1'` (replace it by the path to your script), like [On mange où.Ink](On%20mange%20où.lnk). 
+* You can create a shortcut to launch your script just by clicking on an icon. Create a shortcut and in the target section, write `%SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe -noexit -nologo -command &'C:\Users\bryan\workspace\PowerPoll\poll.ps1'` (replace it by the path to your script), like [On mange où.Ink](On%20mange%20où.lnk).
 
 ## Getting started
+* Read the [configuration](#configuration) part
 * Open PowerShell (or PowerShell ISE)
 * Move to the project folder `cd .\PowerPoll\`
 * Run the script `.\poll.ps1`
@@ -33,6 +34,27 @@ PowerShell poll program for my co-workers to decide where to eat each day :)
 * Vote for the same restaurant to cancel your vote.
 * Vote for `0. Absent(s)` if you are away and don't want to go to the restaurant today.
 * Vote for `99. Suiveurs` if you want to go anywhere.
+
+
+## Add a user
+You can add a user just by adding :
+```xml
+<user id="myid">
+  <prenom>MyUserName</prenom>
+</user>
+```
+inside the `<users></users>` tags of the [users.xml file](dat/users.xml), following [the previous rules](#configuration).
+
+
+## Add a restaurant
+You can add a restaurant just by adding :
+```xml
+<restaurant id="30">
+  <name>MyRestaurant</name>
+  <time>7</time>
+</restaurant>
+```
+inside the `<restaurants></restaurants>` tags of the [restaurants.xml file](dat/restaurants.xml), following [the previous rules](#configuration).
 
 
 ## Disable Execution Policy
